@@ -5,6 +5,8 @@ This repository includes much of the code and information from the 2021 Jasper H
 
 **Original Dataset:** https://www.kaggle.com/mczielinski/bitcoin-historical-data
 
+**Graph of Dataset:** ![fab250fd-debc-43d0-8546-f3d2ca664513](https://user-images.githubusercontent.com/53713571/144168716-9edbbf5b-9ee8-40eb-9076-d8b20fe55605.png)
+
 **Graphs of final product:**
 
 ![094acfd0-4f4d-4649-ae57-546c9e58f60c](https://user-images.githubusercontent.com/53713571/144160729-77b1a2b6-0da4-41a6-9be8-c01e491e5625.png)
