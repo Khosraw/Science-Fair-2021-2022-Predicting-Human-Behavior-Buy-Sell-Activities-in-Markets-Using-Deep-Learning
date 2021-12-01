@@ -5,6 +5,19 @@ This repository includes much of the code and information from the 2021 Jasper H
 
 **Original Dataset:** https://www.kaggle.com/mczielinski/bitcoin-historical-data
 
+##
+- A laptop:
+  - Processor - Intel(R) Pentium CPU 4405U @ 2.10GHz (2 Cores | 4 Threads)
+  - Installed RAM - 4.00GB (3.86GB Usable)
+  - 500GiB HDD
+  - System Type: 64-Bit, x64-based processor
+  - OS: Linux Kernel 5.14.11-Zen of GNU/Linux (Can be Windows)
+  - Distribution: Archcraft
+  - Has Access to a Stable WIFI Connection
+  - Contains a web browser (Vivaldi)
+- Email Account (khosraw.azizi@gmail.com | Recommended no school, work, or organization email addresses)
+- Website - colab.research.google.com, https://github.com/Khosraw/Science-Fair-2021---Predicting-Human-Behavior-Using-Deep-Learning-Market-Prediction
+
 ## Procedure
 1. Plug in the laptop's charging cord into a power socket and the other end of the power cord into the laptop's charging port.
 2. Press the power button on the computer.
