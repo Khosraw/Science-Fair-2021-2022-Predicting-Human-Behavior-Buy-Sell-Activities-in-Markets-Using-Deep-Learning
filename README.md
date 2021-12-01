@@ -1,4 +1,4 @@
-# Science-Fair-2021---Predicting-Human-Behavior-Using-Deep-Learning-Market-Prediction
+# Science Fair 2021 - Predicting Human Behavior Using Deep Learning Market Prediction
 This repository includes much of the code and information from the 2021 Jasper High School Science Fair competition of Khosraw Azizi's project. 
 
 **Dataset Used:** https://drive.google.com/file/d/17QBUbCeGAtktoaG1PTZkWDUBQkh3PW9u/view?usp=sharing
