@@ -5,6 +5,10 @@ This repository includes much of the code and information from the 2021 Jasper H
 
 **Original Dataset:** https://www.kaggle.com/mczielinski/bitcoin-historical-data
 
+## Abstract
+
+The current Deep Learning problem with Machine Learning is the application's ability to make human behavior predictions. While Machine Learning has been able to make analytical predictions and judgments, it has not been able to reliably forecast a human's behavior to a circumstance. This minimizes the possibility for artificial intelligence to be used in a variety of fields. The problem may be solved by obtaining a large dataset of Bitcoin prices and loading it into a Google Collaboratory using the Tensorflow framework and Pandas. The IBM Watson Tone Analyzer service may be used in conjunction with the Google News Python API to collect Bitcoin headlines throughout timeframes and utilize their data for model training and testing. The best model trained had a training MAE (mean absolute error) of 6.3, which translates to a 27 percent reduction in MAE, and the model had a testing MAE improvement of 22 percent with a testing loss of 24. When compared to an LSTM RNN (Recurrent Neural Network) model with a smaller dataset, the model improved testing loss by 111,644%. Many problems involving human behavior prediction can be handled using this method. Applying RNN architecture to reduce loss, even more, lowering the intervals between the important human behavior data obtained in the model, and using new and sophisticated architectures built for more effective training can all help to enhance the model if dealing with similar human behavior problems.
+
 ## Material
 
 - A laptop:
@@ -65,6 +69,20 @@ This repository includes much of the code and information from the 2021 Jasper H
 ![1d3ba0f7-b58a-4baf-a724-512456ed55e9](https://user-images.githubusercontent.com/53713571/144160884-67648d8c-00f7-4880-a3f5-51ecf46cfb2d.png)
 ![download (1)](https://user-images.githubusercontent.com/53713571/144160961-f70a41ce-7c7f-4a38-a6fb-670f412a033f.png)
 ![13e69281-c75e-45b2-a6df-7d1babfafc7c](https://user-images.githubusercontent.com/53713571/144160973-7c03528c-0672-47fc-a832-23cf44d9b8ed.png)
+
+## Error Analysis
+
+Many important errors occur in the process of building a model. Firstly, a common error in time-series problems is not setting a window and a horizon. When windows and horizons are not set, the entire test data is used to predict one output value. This can cause inaccurate results since the entire dataset is influencing only one output. Utilizing a simple function to use indexing and break down the dataset into windows and horizons can make the results far more accurate.  
+
+Also, a rather dangerous mistake can be uploading the API key for the API that is being used publicly such as GitHub. This can quickly get the account from which the API key is owned from being abused, using up all the API requests available. It is best practice to double-check for API keys or use GitHub Guardian to automatically detect leaked security flaws or API keys.  
+
+Finally, when dealing with any data that is not expected to be linear, an activation function must be set. Otherwise, the entire prediction of the graph will be using linear regression rather than unfixed points scattered throughout. By understanding how to solve these issues and why they can occur, a lot of time can be saved while typing to build an efficient Neural Network.
+
+## Future Research & Application
+
+By utilizing the method seen in this project to make more accurate predictions in time-series problems, many problems with the prediction of values involving human behavior factors can be solved. Many companies for example can begin to use such significant human behavior variables in their services to allow investors to make more knowledgeable decisions on how to utilize their capital. However, further improvements can be made in other fields such as those in the medical field. This procedure, for example, can be used to perform an ECG. More strokes can be averted ahead of time if a model can forecast certain heart rates based on historical data, such as physical and emotional activity. This reduces the risk of a fatality, thus saving many lives.
+
+Further improvements to the model can be made by using RNN architecture to decrease loss even further. Decreasing the intervals between the relevant human behavior data gathered in the model can also allow more diverse data to decrease the loss of the model, and as new and complex architectures are created for more efficient training, multivariate models with the ability to predict human behaviors can lead to major solutions to real-world problems involving AI and Deep Learning.
 
 ## Annotated Bibliography
 
