@@ -87,6 +87,7 @@ Further improvements to the model can be made by using RNN architecture to decre
 ## Conclusion
 
 Khosraw Azizi
+
 12.1.2021
 
 **Predicting Human Behavior Using Deep Learning & News Headlines For Bitcoin Price Prediction - Conclusion**
