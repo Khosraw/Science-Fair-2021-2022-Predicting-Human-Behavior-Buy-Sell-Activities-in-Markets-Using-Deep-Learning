@@ -1,7 +1,7 @@
 # Science Fair 2021 - Predicting Human Behavior Using Deep Learning Market Prediction
 This repository includes much of the code and information from the 2021 Jasper High School Science Fair competition of Khosraw Azizi's project. 
 
-<a href='https://ko-fi.com/supportkofi' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+<a href='https://ko-fi.com/khosraw' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
 
 **Dataset Used:** https://drive.google.com/file/d/1emWWZ81Eir_qsRm969nM9_89OskhLhKE/view?usp=sharing
