@@ -59,7 +59,11 @@ The current Deep Learning problem with Machine Learning is the application's abi
 29. Observe the loss/mae (mean absolute error) of each epoch being displayed until the model stops training.
 30. When a graph is displayed at the end of the output box, it means that the model is done training. Observe the graphs, along with the final training loss/mae at the last labeled epoch, and observe the final row of evaluation where the output states with "62/62" for the testing loss/mae. 
 31. Using the previously observed testing loss/mae value, record that the final predictions for the trained model are on average loss/mae dollars off the true pseudo-future values (Ex: $26.96 off since the loss/mae value is 26.9553).
-
+32. Check the Files panel on the left of the site which was opened previously and identify the file labeled "Bitcoin Data Predictions.csv".
+33. Right-click on the file and click on the button labeled "Download" on the menu.
+34. Save the file locally and open it in either an official CSV-supported application or in a simple text editor like Geany (Linux) or Notepad (Windows).
+35. Make observations based on the left column and the right column. How close are the predictions to the actual open prices of Bitcoin?
+	
 ## Graphs
 
 **Graph of Dataset:** 
