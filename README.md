@@ -73,10 +73,10 @@ The current Deep Learning problem with Machine Learning is the application's abi
 
 **Graphs of final product:**
 	
-![094acfd0-4f4d-4649-ae57-546c9e58f60c](https://user-images.githubusercontent.com/53713571/144160729-77b1a2b6-0da4-41a6-9be8-c01e491e5625.png)
+![image](https://user-images.githubusercontent.com/53713571/146690668-b00b2491-e91b-4e8e-999d-174f0ea54db7.png)
 ![image](https://user-images.githubusercontent.com/53713571/146690612-a0e3b391-126b-465d-8a4b-a29fcb4259db.png)
 ![image](https://user-images.githubusercontent.com/53713571/146690615-fe505800-88f0-45d2-93a2-7f10e4ffc2ea.png)
-![13e69281-c75e-45b2-a6df-7d1babfafc7c](https://user-images.githubusercontent.com/53713571/144160973-7c03528c-0672-47fc-a832-23cf44d9b8ed.png)
+![image](https://user-images.githubusercontent.com/53713571/146690673-6865499a-7285-4fea-8727-a4e12a205c6b.png)
 
 ## Error Analysis
 
