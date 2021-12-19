@@ -67,11 +67,11 @@ The current Deep Learning problem with Machine Learning is the application's abi
 	
 ## Graphs
 
-# Graph of Dataset: 
+### Graph of Dataset: 
 
 ![fab250fd-debc-43d0-8546-f3d2ca664513](https://user-images.githubusercontent.com/53713571/144168716-9edbbf5b-9ee8-40eb-9076-d8b20fe55605.png)
 
-# Graphs of final product:
+### Graphs of final product:
 	
 **Window 7, Horizon 1 (Using 7 days to predict 1 day into the future)**
 	
