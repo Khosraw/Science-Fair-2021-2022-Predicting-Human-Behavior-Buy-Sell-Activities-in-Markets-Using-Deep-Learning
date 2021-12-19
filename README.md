@@ -67,16 +67,25 @@ The current Deep Learning problem with Machine Learning is the application's abi
 	
 ## Graphs
 
-**Graph of Dataset:** 
+# Graph of Dataset: 
 
 ![fab250fd-debc-43d0-8546-f3d2ca664513](https://user-images.githubusercontent.com/53713571/144168716-9edbbf5b-9ee8-40eb-9076-d8b20fe55605.png)
 
-**Graphs of final product:**
+# Graphs of final product:
 	
-![image](https://user-images.githubusercontent.com/53713571/146690668-b00b2491-e91b-4e8e-999d-174f0ea54db7.png)
-![image](https://user-images.githubusercontent.com/53713571/146690612-a0e3b391-126b-465d-8a4b-a29fcb4259db.png)
-![image](https://user-images.githubusercontent.com/53713571/146690615-fe505800-88f0-45d2-93a2-7f10e4ffc2ea.png)
-![image](https://user-images.githubusercontent.com/53713571/146690673-6865499a-7285-4fea-8727-a4e12a205c6b.png)
+**Window 7, Horizon 1 (Using 7 days to predict 1 day into the future)**
+	
+![image](https://user-images.githubusercontent.com/53713571/146692062-4cd54d97-3376-45f0-be66-100df4d1c1ee.png)
+![image](https://user-images.githubusercontent.com/53713571/146692068-98950147-c87d-4c1f-b247-22df3cb58f4a.png)
+![image](https://user-images.githubusercontent.com/53713571/146692070-92e62c78-c783-4f82-8af3-fd533f285701.png)
+![image](https://user-images.githubusercontent.com/53713571/146692073-187e796d-1543-4e95-b949-779ea33a2cfd.png)
+	
+**Window 7, Horizon 2 (Using 7 days to predict 2 days into the future & 1 day into the future | orange line for 1 day, green line for 2 days)**
+	
+![image](https://user-images.githubusercontent.com/53713571/146692079-29716f2e-6d64-4312-9c8d-381054f45165.png)
+![image](https://user-images.githubusercontent.com/53713571/146692080-e982faa8-0ea0-4073-8546-7a5f1a72d6ee.png)
+![image](https://user-images.githubusercontent.com/53713571/146692085-ef942d0b-84de-4c58-a905-fcefc10fec80.png)
+![image](https://user-images.githubusercontent.com/53713571/146692089-78b7a9fd-9bcf-400d-8efc-5ec3970d3ff7.png)
 
 ## Error Analysis
 
