@@ -15,17 +15,17 @@ The current Deep Learning problem with Machine Learning is the application's abi
 
 ## Material
 
-- A laptop:
-  - Processor - Intel(R) Pentium CPU 4405U @ 2.10GHz (2 Cores | 4 Threads)
-  - Installed RAM - 4.00GB (3.86GB Usable)
-  - 500GiB HDD
+- A PC:
+  - Processor - AMD Ryzen 5 4500U with Radeon Graphics (6) @ 2.375GHz (6 Cores | 12 Threads)
+  - Installed RAM - 8.00GB
+  - TiB SSD
   - System Type: 64-Bit, x64-based processor
-  - OS: Linux Kernel 5.14.11-Zen of GNU/Linux (Can be Windows)
+  - OS: Linux Kernel 5.15.8-Zen of GNU/Linux (Can be Windows)
   - Distribution: Archcraft
   - Has Access to a Stable WIFI Connection
   - Contains a web browser (Vivaldi)
 - Email Account (khosraw.azizi@gmail.com | Recommended no school, work, or organization email addresses)
-- Website - colab.research.google.com, https://github.com/Khosraw/Science-Fair-2021---Predicting-Human-Behavior-Using-Deep-Learning-Market-Prediction
+- Website - colab.research.google.com, https://github.com/Khosraw/Science-Fair-2021---Predicting-Human-Behavior-Buy-Sell-Activities-in-Markets-Using-Deep-Learning
 
 ## Procedure
 
