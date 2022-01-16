@@ -19,7 +19,7 @@ The current Deep Learning problem with Machine Learning is the application's abi
 - A PC:
   - Processor - AMD Ryzen 5 4500U with Radeon Graphics (6) @ 2.375GHz (6 Cores | 12 Threads)
   - Installed RAM - 8.00GB
-  - TiB SSD
+  - 1 TiB SSD
   - System Type: 64-Bit, x64-based processor
   - OS: Linux Kernel 5.15.8-Zen of GNU/Linux (Can be Windows)
   - Distribution: Archcraft
