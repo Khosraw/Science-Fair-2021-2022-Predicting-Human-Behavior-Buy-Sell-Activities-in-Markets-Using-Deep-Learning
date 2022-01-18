@@ -75,19 +75,20 @@ The current Deep Learning problem with Machine Learning is the application's abi
 
 ### Graphs of final product:
 	
-**Window 7, Horizon 1 (Using 7 days to predict 1 day into the future)**
+**Window 30, Horizon 1 (Using 30 minutes to predict 1 minute into the future)**
 	
-![image](https://user-images.githubusercontent.com/53713571/146692062-4cd54d97-3376-45f0-be66-100df4d1c1ee.png)
-![image](https://user-images.githubusercontent.com/53713571/146692068-98950147-c87d-4c1f-b247-22df3cb58f4a.png)
-![image](https://user-images.githubusercontent.com/53713571/146692070-92e62c78-c783-4f82-8af3-fd533f285701.png)
-![image](https://user-images.githubusercontent.com/53713571/146692073-187e796d-1543-4e95-b949-779ea33a2cfd.png)
+**Full Test Data Prediction Graph**	
+![download](https://user-images.githubusercontent.com/53713571/149870342-9f30775e-2c2b-49eb-81de-816cf76c6dd2.png)
 	
-**Window 7, Horizon 2 (Using 7 days to predict 2 days into the future & 1 day into the future | orange line for 1 day, green line for 2 days)**
+**Testing Loss Graph**	
+![download](https://user-images.githubusercontent.com/53713571/149870381-0acd09cd-51d5-4e5a-bc47-09e96434cff7.png)
 	
-![image](https://user-images.githubusercontent.com/53713571/146692079-29716f2e-6d64-4312-9c8d-381054f45165.png)
-![image](https://user-images.githubusercontent.com/53713571/146692080-e982faa8-0ea0-4073-8546-7a5f1a72d6ee.png)
-![image](https://user-images.githubusercontent.com/53713571/146692085-ef942d0b-84de-4c58-a905-fcefc10fec80.png)
-![image](https://user-images.githubusercontent.com/53713571/146692089-78b7a9fd-9bcf-400d-8efc-5ec3970d3ff7.png)
+**Zoomed Test Data Prediction Graph**	
+![download](https://user-images.githubusercontent.com/53713571/149870395-ba25c39b-dcda-4f53-ae60-cb64cd866ca2.png)
+	
+**Further-Zoomed Test Data Prediction Graph**	
+![download](https://user-images.githubusercontent.com/53713571/149870401-d479d066-7a9d-4760-941f-70173db0d077.png)
+
 
 ## Error Analysis
 
