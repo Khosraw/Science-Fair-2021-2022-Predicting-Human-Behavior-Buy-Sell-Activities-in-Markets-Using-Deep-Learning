@@ -1,5 +1,5 @@
 # Science Fair 2021-2022 - Predicting Human Behavior Buy/Sell Activities in Markets Using Deep Learning
-# This project is discontinued as after Feb. 22, 2022. 
+# This project is discontinued after Feb. 22, 2022. 
 # <img src="https://www.pngall.com/wp-content/uploads/4/Exclamation-Mark-Symbol-PNG.png" width="15" height="30" /> `WARNING: THIS IS NOT FINANTIAL ADVICE` <img src="https://www.pngall.com/wp-content/uploads/4/Exclamation-Mark-Symbol-PNG.png" width="15" height="30" />
 This repository includes much of the code and information from the 2021-2022 Jasper High School Science Fair competition of Khosraw Azizi's project. Future developments to this project will be here.
 
